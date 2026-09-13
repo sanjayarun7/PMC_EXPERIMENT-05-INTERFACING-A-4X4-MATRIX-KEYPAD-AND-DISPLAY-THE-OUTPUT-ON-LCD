@@ -1,7 +1,7 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
-## Name :
-## Roll no :
-## Date of Experiment :
+## Name :SANJAY A
+## Roll no :212224040288
+## Date of Experiment :10.09.2026
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
